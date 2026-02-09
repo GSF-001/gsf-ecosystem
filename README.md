@@ -1,4 +1,4 @@
-# GSF🧑🏻‍🎤
+# GSF
 
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
 No custody. No financial advice. No central control over user funds.
