@@ -1,0 +1,76 @@
+All modules are optional.  
+All modules are replaceable.
+
+The system is designed to survive partial failure.
+
+---
+
+## Core Modules
+
+### Coordination API
+- Entry point for all actions  
+- Governance rules  
+- Role & permission checks  
+
+### Reputation Engine
+- Non-financial scoring  
+- Behavior & consistency tracking  
+- Visibility weighting  
+
+### Feedback Loop
+- User reports  
+- Event feedback  
+- Pattern detection  
+
+### Automation Layer
+- Cron jobs  
+- Workers  
+- Reward distribution  
+- Penalty logic  
+
+---
+
+## Policy Modules (City AI Concept)
+
+### FLS (Financial Logic Shield)
+- Filters high-risk actions  
+- Enforces system constraints  
+
+### CES (Engagement System)
+- Measures community friction & engagement  
+
+### Police Module
+- Detects abuse patterns  
+- Flags anomalous behavior  
+
+### Mayor Module
+- Adjusts global policy parameters  
+
+### Council Module
+- Dispatch hub for policy decisions  
+
+---
+
+## External Modules
+
+### Broker Interface
+- Trade execution  
+- Deposit handling  
+- Withdrawal handling  
+
+### Donation / Disaster Autopilot
+- Event detection  
+- Allocation logic  
+- Audit trails  
+
+---
+
+## Replaceability
+
+Each module can be:
+
+- removed  
+- swapped  
+- rewritten  
+
+without breaking the core coordination layer.
