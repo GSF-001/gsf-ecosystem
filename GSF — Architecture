@@ -1,0 +1,88 @@
+GSF is built as a layered coordination system.
+
+The platform does not hold user funds.  
+All financial actions are executed by external brokers.  
+GSF only coordinates identity, reputation, rules, and incentives.
+
+---
+
+## High-Flow
+
+User Interface (Web / PWA)  
+↓  
+Governance API (Coordination Layer)  
+↓  
+Reputation + Feedback Engine  
+↓  
+Automation Layer (Cron / Workers / Ledger)  
+↓  
+External Brokers (No custody)
+
+---
+
+## Layers
+
+### 1. Interface Layer
+- Web / PWA client  
+- Displays rooms, reputation, events, feedback, status  
+- No financial logic  
+
+### 2. Coordination Layer
+- Governance API  
+- Role & permission logic  
+- Policy routing (who can do what)  
+
+### 3. Reputation & Feedback
+- Non-financial scoring  
+- Behavior tracking  
+- Pattern detection (toxic / misleading behavior)  
+- Visibility weighting  
+
+### 4. Automation Layer
+- Scheduled jobs (cron)  
+- Event triggers  
+- Reward distribution  
+- Audit logging  
+
+### 5. External Execution
+- Brokers execute trades  
+- Payment processors execute transfers  
+- GSF never touches funds  
+
+---
+
+## Design Principles
+
+- Replaceable modules  
+- Minimal trust in operators  
+- Deterministic system rules  
+- Observable system state  
+- No hidden financial flows  
+
+---
+
+## Failure Model
+
+GSF assumes:
+
+- mentors can lie  
+- users can behave badly  
+- operators can disappear  
+
+The system must continue functioning even when humans fail.
+
+---
+
+## Non-Goals
+
+- No custody of funds  
+- No financial advice  
+- No profit guarantees  
+- No centralized moderation dependency  
+
+---
+
+## Status
+
+Architecture reference only.  
+Implementation may differ.
