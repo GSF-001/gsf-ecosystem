@@ -1,4 +1,6 @@
-# GSF
+ # 💫GSF — Ghost Systems Framework
+
+> A coordination architecture for 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
 No custody. No financial advice. No central control over user funds.
