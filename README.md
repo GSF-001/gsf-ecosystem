@@ -27,10 +27,11 @@ GSF only moves **signals, rules, and coordination logic**.
 
 ---
 
-## Why GSF🗯️🧑🏻‍💻
+## GSF.?
   here is the explanation👇🏻   
 
 Most platforms fail because:
+![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/6dcdf03dc99b11f718c7b3593726e27c9d751415/file_000000007dd071fab2e1ea6ce2fea0a2.png)
 
 - trust is centralized  
 - incentives are manual  
@@ -63,6 +64,7 @@ Automation Layer (Cron / Workers / Ledger)
 ↓  
 External Brokers (No custody)
 
+![image alt]{},💫🧑🏻‍🎤
 ---
 
 ## Modules
