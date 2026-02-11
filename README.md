@@ -1,7 +1,7 @@
  # 💫GSF — global Systems Framework
  
 > A coordination architecture for 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
+![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
 No custody. No financial advice. No central control over user funds.
 
@@ -47,17 +47,6 @@ GSF removes these failure modes by design.
 
 ---
 
-## Core Properties
-![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/7366b27fc6737c6444420afd8fd339da868e1326/images%20(5).jpeg)
-
-- No custody of user funds  
-- Algorithmic governance  
-- Automated reward & penalty loops  
-- Reputation without financial control  
-- Systems that continue running when operators go offline  
-
----
-
 ## Architecture Overview
 
 User Interface  
@@ -71,6 +60,15 @@ Automation Layer (Cron / Workers / Ledger)
 External Brokers (No custody)
 
 ---
+
+## Core Properties
+![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/7366b27fc6737c6444420afd8fd339da868e1326/images%20(5).jpeg)
+
+- No custody of user funds  
+- Algorithmic governance  
+- Automated reward & penalty loops  
+- Reputation without financial control  
+- Systems that continue running when operators go offline  
 
 ## Modules
 
@@ -123,10 +121,10 @@ If they do not,
 the system fails — visibly.
 
 ---
-
+![image](https://github.com/GSF-001/edge-safety-system/blob/bfee8531f0bccbb1ba9a839ba003c44a22f71ef1/file_00000000fa0c72069accd6a331011001-removebg-preview.png)
 ## Contact
 
-©Founder: MIKA 
+      by ©Founder: MIKAtoshi
 
 •  Email:gsfvapps@gmail.com 
 
