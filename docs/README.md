@@ -1,7 +1,9 @@
-# GSF – Global Snowball Framework (Open Blueprint)
+## ⚔️ GSF –global student fremwork (Open Blueprint)  
 
-GSF is an open system blueprint for building a modular coordination ecosystem that combines:
+   GSF is an open system blueprint for     building a modular coordination         ecosystem that combines:
 
+![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
+[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 - Education & community (Mentors / IB / VIP Rooms)
 - Governance & treasury coordination (multisig logic, circuit breakers, rolling keys)
 - Modular infrastructure (broker integration, property, healthcare, R&D, etc.)
@@ -48,3 +50,17 @@ It is not a broker, not an investment product, and not a fund manager.
 
 If you find flaws, contradictions, or better ideas:  
 open an Issue or submit a PR.
+
+<p align="right">
+  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+</p>
+
+       by ©Founder: Mikatoshi 
+
+•  Email:gsfvapps@gmail.com 
+
+
+
+
+
+
