@@ -9,14 +9,15 @@ GSF is an experiment in building digital infrastructure that can operate with mi
 
 ---
 
-## What This Is🤷🏻
+## What This Is GSF👨🏻‍💻
+![image](https://github.com/GSF-001/GSF-SYSTEM-/blob/6d564a8253d51faa54761caba91e878a98abf343/mona-happy.gif)
 
 GSF is not a product.  
 It is a **system architecture**.
 
 A set of modules that coordinate:
 
-- identity👾
+- identity 
 - reputation  
 - incentives  
 - governance  
@@ -29,7 +30,7 @@ GSF only moves **signals, rules, and coordination logic**.
 
 ---
 
-## GSF.?
+## GSF
   here is the explanation👇🏻   
 
 Most platforms fail because:
