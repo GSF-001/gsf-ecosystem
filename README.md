@@ -30,6 +30,8 @@ across distributed communities.
 Money moves only through external brokers.  
 GSF only moves **signals, rules, and coordination logic**.
 
+https://github.com/GSF-001/GSF-SYSTEM-/tree/446e42bcef4900bd467820dc68c0779422ff8d26/docs
+
 ---
 
 ## GSF
