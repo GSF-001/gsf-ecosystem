@@ -1,0 +1,25 @@
+/docs
+  /architecture
+    - GSF_Architecture.md
+  /modules
+    - GSF_Modules.md
+  /protocol
+    - GSF_BLUEPRINT.md
+    - GSF_STATUS.md
+  - CONTRIBUTING.md
+  - TASKS.md
+
+README.md
+LICENSE
+Real talk (straight, no bullshit)
+Right now your repo is not “dead” —
+it’s just missing entry points for humans.
+People don’t collaborate because: ❌ no clear starting task
+❌ no clear role
+❌ no clear problem to solve
+With:
+README (vision)
+TASKS (entry points)
+CONTRIBUTING (rules)
+your repo becomes a playground for system thinkers —
+not just another GitHub graveyard.
