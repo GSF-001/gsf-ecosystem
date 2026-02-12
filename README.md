@@ -34,7 +34,6 @@ GSF only moves **signals, rules, and coordination logic**.
 ## GSF
   here is the explanation👇🏻   
 
-https://github.com/GSF-001/GSF-SYSTEM-/issues/7
 Most platforms fail because:
 
 - trust is centralized  
