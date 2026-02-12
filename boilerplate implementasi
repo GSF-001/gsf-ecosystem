@@ -8,8 +8,8 @@ src/
     mayor.js
   index.js
 
-      This is an initial implementation
+This is an initial implementation
 of the GSF module concept 
 (Council + FLS + CES + Police + Mayor).
-  This isn't a production project,just a 
+This isn't a production project,just a 
   "starter skeleton" for collaboration.
