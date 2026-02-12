@@ -1,4 +1,4 @@
-## ⚔️ GSF –global student fremwork (Open Blueprint)  
+## ⚔️ GSF –global system fremwork (Open Blueprint)  
 
    GSF is an open system blueprint for     building a modular coordination         ecosystem that combines:
 
