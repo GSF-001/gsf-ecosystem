@@ -1,9 +1,0 @@
-
-import { GSF } from "./src/index.js";
-
-const result = GSF.council.dispatch({
-  type: "reward",
-  amount: 1000,
-});
-
-console.log(result);
