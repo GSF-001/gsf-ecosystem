@@ -1,4 +1,4 @@
- # 💫GSF — global System fremwork 
+ ### GSF — global System fremwork 
   
 ![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
@@ -6,15 +6,13 @@ No custody. No financial advice. No central control over user funds.
 
 GSF is an experiment in building digital infrastructure that can operate with minimal human intervention.
  
- ![image](https://github.com/GSF-001/GSF-SYSTEM-/blob/75b5eba32582710e3afd31b401618e7c31239149/-a2hl1h.jpg)
-
 ---
 
 ## What This Is GSF👨🏻‍💻
-![image](https://github.com/GSF-001/GSF-SYSTEM-/blob/6d564a8253d51faa54761caba91e878a98abf343/mona-happy.gif)
 
 GSF is not a product.  
 It is a **system architecture**.
+  ![image](https://github.com/GSF-001/GSF-SYSTEM-/blob/75b5eba32582710e3afd31b401618e7c31239149/-a2hl1h.jpg)
 
 A set of modules that coordinate:
 
@@ -119,28 +117,7 @@ the system fails — visibly.
 
 ---
 ## contact📫
-
-<p align="right">
-  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
-</p>
-
-      by ©Founder: Mikatoshi 
-
 •  Email:gsfvapps@gmail.com 
 
-•  GitHub:https://github.com/GSF-001  
-
-There is no roadmap.  
-Only iterations.🪙
-
-
-
-
-
-
-
-
-
-
-
-
+— Mikatoshi  
+Operator status: unknown.
