@@ -8,7 +8,8 @@ No custody. No financial advice. No central control over user funds.
 GSF is an experiment in building digital infrastructure that can operate with minimal human intervention.
  
 ---
-
+> This repository documents a system designed to remain operational  
+> even if its original authors disappear.
 ### What This Is GSF👨🏻‍💻
 
 GSF is not a product.  
