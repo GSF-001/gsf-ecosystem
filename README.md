@@ -44,15 +44,18 @@ GSF removes these failure modes by design.
 
 ### Architecture Overview
 
-User Interface  
-↓  
-Coordination Layer (Governance API)  
-↓  
-Reputation & Feedback Engine  
-↓  
-Automation Layer (Cron / Workers / Ledger)  
-↓  
-External Brokers (No custody)
+GSF's coordination system flows through these layers:
+
+- **User Interface**  
+- **Coordination Layer (Governance API)**  
+- **Reputation & Feedback Engine**  
+- **Automation Layer (Cron / Workers / Ledger)**  
+- **External Brokers (No custody)**
+
+### Notes
+- Money never touches the system; only **signals, rules, and coordination logic** flow.  
+- Each layer is modular and replaceable.  
+- Designed to continue functioning even if operators disappear.
 
 ---
 
